@@ -1,0 +1,24 @@
+{
+  "name": "emailsendersdk",
+  "version": "1.0.0",
+  "description": "A simple SDK for sending emails using Node.js and Nodemailer.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yutkach/emailsendersdk.git"
+  },
+  "keywords": [
+    "email",
+    "sender",
+    "sdk",
+    "nodemailer"
+  ],
+  "author": "yutkach",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.7.2"
+  }
+}
